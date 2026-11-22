@@ -55,6 +55,7 @@
     color: white;
     border-radius: 5px;
 }
+
 .box2 {
     display: flex;
     justify-content: center;
@@ -62,6 +63,17 @@
     gap: 70px;
     margin-top: 100px;
 }
+
 .di2 {
+    line-height: 1.5;
+}
+.box3  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+    margin-top: 100px;
+}
+.d1 {
     line-height: 1.5;
 }
