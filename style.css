@@ -170,8 +170,31 @@
     align-items: center;
     padding: 10px;
 }
+
 .box8 {
     text-align: center;
     line-height: 2;
     margin-top: 100px;
+}
+.box9 {
+    background-color: rgb(11, 38, 90);
+}
+.box9 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding: 70px;
+}
+.v1 {
+    line-height: 1.5;
+    color: white;
+}
+.v2 {
+    margin-top: 20px;
+}
+.v {
+    display: flex;
+    gap: 100px;
+    line-height: 2;
+    color: white;
 }
