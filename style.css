@@ -100,9 +100,72 @@
 .bn1 {
     line-height: 1.8;
 }
+
 .box6 {
     display: flex;
     justify-content: space-evenly;
     line-height: 2;
     margin-top: 100px;
+}
+
+.box7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    gap: 90px;
+}
+
+.n1 {
+    line-height: 2;
+}
+
+.p1 {
+    padding: 8px;
+    width: 20%;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+.n2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: -35px;
+}
+
+.n3 {
+    border: 1px solid black;
+    margin-bottom: 50px;
+}
+
+.n4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.n5 {
+    border: 1px solid black;
+    margin-bottom: 50px;
+}
+
+.n6 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.n7 {
+    border: 1px solid black;
+}
+
+.n8 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
 }
